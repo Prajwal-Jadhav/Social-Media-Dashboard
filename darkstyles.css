@@ -1,0 +1,15 @@
+.dark-body-background {
+  background-color: hsl(230, 17%, 14%);
+}
+
+.dark-card-background {
+  background-color: hsl(228, 28%, 20%);
+}
+
+.white-text {
+  color: hsl(0, 0%, 100%);
+}
+
+.blue-text {
+  color: hsl(228, 34%, 66%) !important;
+}

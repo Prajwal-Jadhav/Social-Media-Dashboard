@@ -1,0 +1,28 @@
+body {
+  padding-left: 163px;
+  padding-right: 163px;
+  position: relative;
+}
+
+.header {
+  border-bottom: none;
+}
+
+.header .main-heading {
+  font-size: 32px;
+}
+
+.dark-mode {
+  justify-content: flex-end;
+  position: absolute;
+  top: 30px;
+  right: 163px;
+}
+
+.social-media-cards {
+  grid-template-columns: repeat(auto-fit, minmax(257px, auto));
+}
+
+.overview {
+  grid-template-columns: repeat(auto-fit, minmax(257px, auto));
+}
