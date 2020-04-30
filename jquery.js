@@ -12,6 +12,4 @@ $("input[type=checkbox]").change(function addDarkmode() {
   $(".dark-mode-sub-text").toggleClass("blue-text");
 });
 
-// function uncheck() {
-//     $("input[type=checkbox]").prop("checked", false);
-//   }
+
